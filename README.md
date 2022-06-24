@@ -1,2 +1,2 @@
 # landing-page
-an exercise
+an exercise published at https://jamzero100.github.io/landing-page/
