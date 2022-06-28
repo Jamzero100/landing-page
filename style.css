@@ -1,14 +1,25 @@
-nav {
-   align-content: center; 
+.header-bar{
+    flex-direction: row;
+    display:inline-block;
+}
+link1,link2,link3 {
+    text-align: right;
+}
+    
+}
+.pics{
+border-spacing: 
 }
 
-body {
-    flex-direction: row;
-}
 
 #brief {
     font-size: 36px;
     color:#1F2937;
+}
+#sign-up{
+    text-align: center;
+    background-color:blue;
+    
 }
 
 footer {
