@@ -1,17 +1,18 @@
 .header-bar{
     flex-direction: row;
-    display:inline-block;
+    display:flex;
+    justify-content: space-between;
 }
-link1,link2,link3 {
-    text-align: right;
-}
+
     
-}
 .pics{
 border-spacing: 
 }
 
-
+.area2{
+    display:flex;
+    
+}
 #brief {
     font-size: 36px;
     color:#1F2937;
