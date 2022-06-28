@@ -1,3 +1,10 @@
 nav {
    align-content: center; 
 }
+footer {
+    text-align: center;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: light italic;
+}
