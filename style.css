@@ -1,6 +1,16 @@
 nav {
    align-content: center; 
 }
+
+body {
+    flex-direction: row;
+}
+
+#brief {
+    font-size: 36px;
+    color:#1F2937;
+}
+
 footer {
     text-align: center;
     background-color: #E5E7EB;
