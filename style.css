@@ -11,8 +11,21 @@ border-spacing:
 
 .area2{
     display:flex;
-    
+    flex-direction: row;
 }
+.zeus{
+    width: 5em;
+    height:10em;
+}
+.neptune{
+    width:10px;
+    height:10px;
+}
+.venus{
+    width:10px;
+    height:10px;
+}
+
 #brief {
     font-size: 36px;
     color:#1F2937;
